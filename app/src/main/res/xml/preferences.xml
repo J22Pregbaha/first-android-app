@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="pref_goal"
+        android:title="Editable Goal"
+        android:summary="Set goals as editable"
+        android:defaultValue="true"/>
+
+    <CheckBoxPreference
+        android:key="pref_notifications"
+        android:title="Enable notifications"
+        android:summary="Allow notifications to be sent"
+        android:defaultValue="true"/>
+
+    <CheckBoxPreference
+        android:key="pref_add_history"
+        android:title="Historical editing"
+        android:summary="Allow historical activities to be added and edited"
+        android:defaultValue="true"/>
+
+</PreferenceScreen>

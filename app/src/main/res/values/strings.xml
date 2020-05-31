@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KeepFit</string>
+    <string name="title_home">Home</string>
+    <string name="title_history">History</string>
+    <string name="title_goals">Goals</string>
+    <string name="settings">Settings</string>
+</resources>
